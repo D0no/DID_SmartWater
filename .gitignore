@@ -12,6 +12,4 @@
 /captures
 .externalNativeBuild
 .cxx
-./idea/misc.xml
-./idea/vcs.xml
 local.properties
